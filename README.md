@@ -3,7 +3,7 @@
 ![Example_images](https://github.com/FelixSjogren/HorSy15k/assets/35043497/ded1976e-0743-4f50-9bf7-f70bad3cb7bb)
 
 
-HorSy15k is a fully annotated synthetic dataset designed for training horse/animal pose recognition models. It contains 15,000 synthetic images of horses, each with 20 annotated keypoints. Even obscured keypoints/joints are annotated.
+HorSy15k is a fully annotated synthetic dataset designed for training horse/animal pose recognition models. It contains 15,000 synthetic images of horses, each with 20 annotated keypoints and a bounding box (bbox). Even obscured keypoints/joints are annotated.
 
 ## Key Features
 
