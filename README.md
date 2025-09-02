@@ -10,6 +10,6 @@ HorSy15k is a fully annotated synthetic dataset designed for training horse/anim
 - **Fully Annotated**: Each horse image in the dataset is annotated with 20 keypoints, providing precise information about the pose of the horse.
 - **Obscured Keypoints**: Even when keypoints are obscured they are annotated in HorSy15k.
 
-## Image Downloadd
-The images are available here:
+## Image Download
+The images are available for download here:
 https://drive.google.com/file/d/144tPldJuPD_uzINcSvKD566KoNunwtvr/view?usp=sharing
